@@ -1,1 +1,2 @@
-pub mod lut;
+mod lut;
+pub mod board;
