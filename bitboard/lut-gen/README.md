@@ -1,0 +1,1 @@
+Contains python files for generating bit lookup tables for different pieces and board positions. Used manually for generating lut.rs
